@@ -23,8 +23,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   A software to make copying easier!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+# Your name to show in the footer
+author: wy-Luke
 
 # Build settings
 remote_theme: daattali/beautiful-jekyll@5.0.0
@@ -97,7 +98,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
