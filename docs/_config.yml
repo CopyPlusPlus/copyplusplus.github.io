@@ -33,11 +33,11 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "关于"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://github.com/wy-luke"
 
 # --- Logo --- #
 
