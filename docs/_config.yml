@@ -36,8 +36,7 @@ navbar-links:
   关于: "关于"
   使用说明: "使用说明"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
-    # - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://github.com/wy-luke"
+  作者: "https://github.com/wy-luke"
 
 # --- Logo --- #
 
@@ -60,8 +59,8 @@ round-avatar: false
 social-network-links:
   email: "copyplusplus@163.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#  facebook: deanattali
   github: wy-luke
+  stackoverflow: "9522354/even-wonder"
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -69,7 +68,6 @@ social-network-links:
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
-stackoverflow: "9522354/even-wonder"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
@@ -257,19 +255,10 @@ defaults:
 
 # Exclude these files from production site
 exclude:
-  - CHANGELOG.md
-  - CNAME
   - Gemfile
   - Gemfile.lock
-  - LICENSE
-  - README.md
-  - screenshot.png
-  - docs/
+
 
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
-
