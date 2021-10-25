@@ -255,6 +255,7 @@ defaults:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - CNAME
 
 
 plugins:
