@@ -31,10 +31,11 @@ remote_theme: daattali/beautiful-jekyll@5.0.0
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  关于: "关于"
-  使用说明: "使用说明"
+  关于: "about"
+  使用说明: "doc"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
   作者: "https://github.com/wy-luke"
+  ☀️: "DarkMode.js"
 
 # --- Logo --- #
 
