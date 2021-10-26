@@ -34,6 +34,7 @@ navbar-links:
   关于: "关于"
   使用说明: "使用说明"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Tags: "Tags"
   作者: "https://github.com/wy-luke"
 
 # --- Logo --- #
@@ -245,6 +246,7 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
+      readtime: true
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
