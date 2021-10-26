@@ -2,8 +2,9 @@
 layout: post
 title: "v4.0"
 subtitle: "新版本更新"
-date: 2021-10-14
 tags: release
+gh-repo: CopyPlusPlus/CopyPlusPlus-NetFramework
+gh-badge: [star]
 ---
 ## 更新日志
 
