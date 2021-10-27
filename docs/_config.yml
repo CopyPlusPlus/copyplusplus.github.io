@@ -246,11 +246,15 @@ defaults:
       comments: true  # add comments to all blog posts
       social-share: false # add social media sharing buttons to all blog posts
       readtime: true
+      js: /assets/js/demo.js
+      css: /assets/css/skin-switch.css
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+      js: /assets/js/demo.js
+      css: /assets/css/skin-switch.css
 
 # Exclude these files from production site
 exclude:
