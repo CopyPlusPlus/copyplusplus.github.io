@@ -35,7 +35,6 @@ navbar-links:
   使用说明: "doc"
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
   作者: "https://github.com/wy-luke"
-  ☀️: "DarkMode.js"
 
 # --- Logo --- #
 
@@ -58,7 +57,7 @@ round-avatar: false
 social-network-links:
   email: "copyplusplus@163.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: wy-luke
+  github: CopyPlusPlus
   stackoverflow: "9522354/even-wonder"
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -95,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "CopyPlusPlus.GQ"
+url-pretty: "CopyPlusPlus.tk"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
