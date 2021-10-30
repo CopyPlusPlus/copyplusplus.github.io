@@ -55,7 +55,7 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "wykj.luke@gmail.com@163.com"
+  email: "wykj.luke@gmail.com"
   rss: true # remove this line if you don't want to show an RSS link at the bottom
   github: CopyPlusPlus
   stackoverflow: "9522354/even-wonder"
