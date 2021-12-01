@@ -3,7 +3,7 @@ layout: post
 title: "v4.0"
 subtitle: "新版本更新"
 tags: release
-gh-repo: CopyPlusPlus/CopyPlusPlus-NetFramework
+gh-repo: CopyPlusPlus/CopyPlusPlus
 gh-badge: star
 ---
 ## 更新日志

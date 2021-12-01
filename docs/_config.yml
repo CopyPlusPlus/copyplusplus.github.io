@@ -20,10 +20,10 @@
 
 title: CopyPlusPlus
 description: >- # this means to ignore newlines until "baseurl:"
-  A software to make copying easier!
+  让复制变得更加简单!
 
 # Your name to show in the footer
-author: wy-Luke
+author: 骛宇
 
 # Build settings
 remote_theme: daattali/beautiful-jekyll@5.0.0
@@ -58,7 +58,7 @@ social-network-links:
   email: "wykj.luke@gmail.com"
   rss: true # remove this line if you don't want to show an RSS link at the bottom
   github: CopyPlusPlus
-  stackoverflow: "9522354/even-wonder"
+#  stackoverflow: "9522354/even-wonder"
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -81,7 +81,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: CopyPlusPlus, a software to make copying easier!
+rss-description: Copy++, 让复制变得更加简单!
 
 # --- General options --- #
 
@@ -135,7 +135,7 @@ footer-hover-col: "#0085A1"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-mobile-theme-col: "#e5c557"
+mobile-theme-col: "#F9ED69"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
@@ -170,7 +170,7 @@ gtag: "G-6TX00ZM042"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "CopyPlusPlus"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
