@@ -536,7 +536,7 @@ button {
   align-items: center;
   transform-origin: center top;
   animation-timing-function: cubic-bezier(0.6, 0, 0.38, 1);
-  animation: move 5.1s infinite;
+  animation: move 8.1s infinite;
 }
 
 @keyframes move {
