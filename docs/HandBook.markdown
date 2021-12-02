@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "使用说明"
 tags: 
 gh-repo: CopyPlusPlus/CopyPlusPlus
@@ -30,7 +30,7 @@ gh-badge: star
 
 6. 免费，小巧，仅**4Mb**，并且**无需安装**，打开即用，方便快捷。
 
-7. 如何下载？或关注公众号！！！
+7. 如何下载？关注公众号!!!
 
 -----------------------
 
