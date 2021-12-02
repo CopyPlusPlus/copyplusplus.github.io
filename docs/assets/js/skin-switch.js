@@ -10,8 +10,8 @@ $(function () {
   $("#change-skin").on("click", function () {
     $("body").toggleClass("page-dark-mode");
     BeautifulJekyllJS.initNavbar();
-    
-    if (sessionStorage.getItem("dark") === "" || sessionStorage.getItem("dark") === null)
+
+    if (sessionStorage.getItem("dark") === null || sessionStorage.getItem("dark") === "")
       sessionStorage.setItem("dark", "true");
     else sessionStorage.setItem("dark", "");
   });
