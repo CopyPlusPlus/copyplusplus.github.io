@@ -1,3 +1,4 @@
+html { visibility:hidden; }
 #change-skin {
   position: absolute;
   cursor: pointer;
