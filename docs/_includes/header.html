@@ -1,6 +1,6 @@
 <!-- TODO this file has become a mess, refactor it -->
 
-{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+{% assign date_format = site.date_format | default: "%Y-%m-%d" %}
 
 {% if page.cover-img or page.title %}
 
@@ -38,11 +38,11 @@
           {% endif %}
 
           {% if include.type == "post" %}
-            <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
+            <span class="post-meta">发表于 {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
-                Last updated {{ page.last-updated | date: date_format }}
+                上次更新于 {{ page.last-updated | date: date_format }}
               </span>
             {% endif %}
             {% if page.readtime %}
@@ -72,11 +72,11 @@
           {% endif %}
 
           {% if include.type == "post" %}
-            <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
+            <span class="post-meta">发表于 {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
-                Last updated {{ page.last-updated | date: date_format }}
+                上次更新于 {{ page.last-updated | date: date_format }}
               </span>
             {% endif %}
             {% if page.readtime %}
