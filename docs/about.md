@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CopyPlusPlus
-subtitle: A software to make copying easier
+title: Copy++
+subtitle: 让复制变得更加简单！
 ---
 
 ## Copy++ 让复制变得更加简单
