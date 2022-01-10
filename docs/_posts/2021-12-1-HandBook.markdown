@@ -3,16 +3,13 @@ layout: post
 title: "使用说明"
 tags:
 ---
-
-## Copy++ 让复制变得更加简单
+![Info.png](https://s2.loli.net/2022/01/08/k1uohVls8CyKT7q.png)
 
 [![TotalDownloads](https://img.shields.io/github/downloads/CopyPlusPlus/CopyPlusPlus/total.svg?style=flat-square)](https://github.com/CopyPlusPlus/CopyPlusPlus/releases)
 [![TotalDownloads](https://img.shields.io/github/downloads/CopyPlusPlus/CopyPlusPlus/latest/total?style=flat-square)](https://github.com/CopyPlusPlus/CopyPlusPlus/releases)
 [![Release](https://img.shields.io/github/v/release/CopyPlusPlus/CopyPlusPlus?style=flat-square)](https://github.com/CopyPlusPlus/CopyPlusPlus/releases)
 [![Stars](https://img.shields.io/github/stars/CopyPlusPlus/CopyPlusPlus?style=flat-square)](https://github.com/CopyPlusPlus/CopyPlusPlus)
 ![License](https://img.shields.io/github/license/CopyPlusPlus/CopyPlusPlus?style=flat-square)
-
-![Info.png](https://s2.loli.net/2022/01/08/k1uohVls8CyKT7q.png)
 
 本文是一篇Copy++ 使用手册，持续更新，点击公众号菜单获取最新版
 
