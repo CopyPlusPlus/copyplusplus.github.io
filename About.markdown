@@ -3,16 +3,32 @@ layout: page
 title: Copy++
 subtitle: 让复制变得更加简单！
 ---
+<p style="text-align: center">
+  <a href="https://github.com/CopyPlusPlus/CopyPlusPlus/releases"
+    ><img
+      src="https://img.shields.io/github/downloads/CopyPlusPlus/CopyPlusPlus/total.svg?style=flat-square"
+      alt="TotalDownloads"
+  /></a>
+  <a href="https://github.com/CopyPlusPlus/CopyPlusPlus/releases"
+    ><img
+      src="https://img.shields.io/github/v/release/CopyPlusPlus/CopyPlusPlus?style=flat-square"
+      alt="Release"
+  /></a>
+  <a href="https://github.com/CopyPlusPlus/CopyPlusPlus"
+    ><img
+      src="https://img.shields.io/github/stars/CopyPlusPlus/CopyPlusPlus?style=flat-square"
+      alt="Stars"
+  /></a>
+  <img
+    src="https://img.shields.io/github/license/CopyPlusPlus/CopyPlusPlus?style=flat-square"
+    alt="License"
+  />
 
-## Copy++ 让复制变得更加简单
+  <br />
 
-[![TotalDownloads](https://img.shields.io/github/downloads/CopyPlusPlus/CopyPlusPlus/total.svg?style=flat-square)](https://github.com/CopyPlusPlus/CopyPlusPlus/releases)
-[![TotalDownloads](https://img.shields.io/github/downloads/CopyPlusPlus/CopyPlusPlus/latest/total?style=flat-square)](https://github.com/CopyPlusPlus/CopyPlusPlus/releases)
-[![Release](https://img.shields.io/github/v/release/CopyPlusPlus/CopyPlusPlus?style=flat-square)](https://github.com/CopyPlusPlus/CopyPlusPlus/releases)
-[![Stars](https://img.shields.io/github/stars/CopyPlusPlus/CopyPlusPlus?style=flat-square)](https://github.com/CopyPlusPlus/CopyPlusPlus)
-![License](https://img.shields.io/github/license/CopyPlusPlus/CopyPlusPlus?style=flat-square)
+<img src="/assets/img/gzh.png" alt="Info.png" width="500" />
 
-![Info.png](https://s2.loli.net/2022/01/08/k1uohVls8CyKT7q.png)
+</p>
 
 本软件可以：
 
