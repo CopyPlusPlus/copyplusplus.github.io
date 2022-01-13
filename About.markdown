@@ -3,6 +3,7 @@ layout: page
 title: Copy++
 subtitle: 让复制变得更加简单！
 ---
+
 <p style="text-align: center">
   <a href="https://github.com/CopyPlusPlus/CopyPlusPlus/releases"
     ><img
@@ -26,7 +27,7 @@ subtitle: 让复制变得更加简单！
 
   <br />
 
-<img src="/assets/img/gzh.png" alt="Info.png" width="500" />
+<img src="/assets/img/gzh.png" alt="gzh" width="500" />
 
 </p>
 
@@ -44,7 +45,15 @@ subtitle: 让复制变得更加简单！
 
 6. 免费，小巧，仅**4Mb**，并且**无需安装**，打开即用，方便快捷。
 
-7. 如何下载？或关注公众号！！！
+7. 如何下载？Github 或关注公众号！！！
+
+开发中：
+
+1. 图片文字识别（ OCR ）
+
+2. 图片数学公式识别
+
+   ......
 
 ---
 

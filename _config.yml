@@ -12,11 +12,9 @@ description: 让复制变得更加简单!
 author: 骛宇
 
 # --- List of links in the navigation bar --- #
-
 navbar-links:
   关于: "About"
   使用说明: "HandBook"
-    # - Beautiful Jekyll: "https://beautifuljekyll.com"
   作者: "Github"
 
 # --- Logo --- #
