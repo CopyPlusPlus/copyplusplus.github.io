@@ -30,8 +30,9 @@ tags: 新版本
 3. 完善软件去除换行、空格等功能。
 4. 完善自定义翻译接口功能。
 
-## 蓝奏云
+## 下载地址
 
-[点击这里](https://wws.lanzouy.com/iMmbZyswaji)
-
+1. [蓝奏云](https://wws.lanzouy.com/iMmbZyswaji)
 密码:1233
+
+2. [Github](https://github.com/CopyPlusPlus/CopyPlusPlus/releases/download/v5.0/Copy++.exe)
