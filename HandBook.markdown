@@ -4,13 +4,34 @@ title:
 tags: 教程
 ---
 
-<p style="margin: -10px; text-align: center">
-    <img src="/assets/img/gzh.png" alt="公众号图片" width="500" />
+<p style="margin-top: 5px; margin-bottom: -15px; text-align: center">
+  <a href="https://github.com/CopyPlusPlus/CopyPlusPlus/releases"
+    ><img
+      src="https://img.shields.io/github/downloads/CopyPlusPlus/CopyPlusPlus/total.svg?style=flat-square"
+      alt="TotalDownloads"
+  /></a>
+  <a href="https://github.com/CopyPlusPlus/CopyPlusPlus/releases"
+    ><img
+      src="https://img.shields.io/github/v/release/CopyPlusPlus/CopyPlusPlus?style=flat-square"
+      alt="Release"
+  /></a>
+  <a href="https://github.com/CopyPlusPlus/CopyPlusPlus"
+    ><img
+      src="https://img.shields.io/github/stars/CopyPlusPlus/CopyPlusPlus?style=flat-square"
+      alt="Stars"
+  /></a>
+  <img
+    src="https://img.shields.io/github/license/CopyPlusPlus/CopyPlusPlus?style=flat-square"
+    alt="License"
+  />
+</p>
+<p style="text-align: center">
+  <img src="/assets/img/gzh.png" alt="Info.png" width="500" />
 </p>
 
 本文是 Copy++ **使用手册**（更新至 **5.0** 版本），持续更新。
 
-在公众号菜单 **Copy++**，可获取最新版**软件与手册**，还有其他好玩的，欢迎关注。
+在公众号（骛宇勿语）菜单 **Copy++**，可获取最新版**软件与手册**，还有其他好玩的，欢迎关注。
 
 ---
 

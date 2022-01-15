@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Copy++
-subtitle: 让复制变得更加简单！
+title:
+subtitle:
 ---
 
-<p style="text-align: center">
+<p style="margin-top: 5px; margin-bottom: -15px; text-align: center">
   <a href="https://github.com/CopyPlusPlus/CopyPlusPlus/releases"
     ><img
       src="https://img.shields.io/github/downloads/CopyPlusPlus/CopyPlusPlus/total.svg?style=flat-square"
@@ -24,12 +24,12 @@ subtitle: 让复制变得更加简单！
     src="https://img.shields.io/github/license/CopyPlusPlus/CopyPlusPlus?style=flat-square"
     alt="License"
   />
-
-  <br />
-
-<img src="/assets/img/gzh.png" alt="gzh" width="500" />
-
 </p>
+<p style="text-align: center">
+  <img src="/assets/img/gzh.png" alt="Info.png" width="500" />
+</p>
+
+## Copy++ 软件介绍
 
 本软件可以：
 
