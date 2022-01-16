@@ -1,7 +1,6 @@
 ---
 layout: page
 title:
-subtitle:
 ---
 
 <p style="margin-top: 5px; margin-bottom: -15px; text-align: center">

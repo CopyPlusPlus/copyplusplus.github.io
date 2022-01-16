@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-tags: 教程
+comments: true
 ---
 
 <p style="margin-top: 5px; margin-bottom: -15px; text-align: center">
